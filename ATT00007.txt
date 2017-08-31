@@ -1,0 +1,16 @@
+這個訊息來自於MailScanner E-Mail病毒防治服務
+----------------------------------------------------------------------
+
+這封郵件的附件 "AnimatedFormSwitching.zip.hahaha" 檔案格式不被系統認可，或是含有病毒
+因此系統已經將此附件移除
+
+時間 : Mon Jul  8 12:07:06 2013
+系統報告 :    MailScanner: JScript Scripts are dangerous in email (ChunkFive_400.font.js)
+
+隔離區域 : /var/spool/MailScanner/quarantine/20130708 (message r68475gc021560)
+
+----------------------------------------------------------------------
+聯天科技股份有限公司
+AIRLINK TECHNOLOGY CO., LTD
+
+文件編號 : stored.filename.message
